@@ -11,6 +11,22 @@
     <content type="html"><![CDATA[<h1 id="八字"><a href="#八字" class="headerlink" title="八字"></a>八字</h1><h2 id="天干"><a href="#天干" class="headerlink" title="天干"></a>天干</h2><h2 id="地支"><a href="#地支" class="headerlink" title="地支"></a>地支</h2>]]></content>
     
     
+    <categories>
+      
+      <category>分类1</category>
+      
+      <category>分类2</category>
+      
+    </categories>
+    
+    
+    <tags>
+      
+      <tag>标签1</tag>
+      
+      <tag>标签2</tag>
+      
+    </tags>
     
   </entry>
   
